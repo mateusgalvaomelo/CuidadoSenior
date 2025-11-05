@@ -23,14 +23,14 @@ O sistema permite **ligação direta de emergência**, **cadastro de contatos**,
 
 A versão pronta pode ser executada diretamente no **Windows**:
 
-1. Baixe o arquivo:  
+1. Baixe o arquivo: v2  
    👉 `APLICATIVO_EXECUTAVEL/CuidadoSenior.exe`
 2. Clique duas vezes no arquivo para abrir o aplicativo.  
 3. O sistema será iniciado em modo desktop, sem necessidade de instalação.
 
 ---
 
-### ⚙️ Opção 2 — Rodar o projeto localmente (modo desenvolvedor)
+### ⚙️ Opção 2 — Rodar o projeto localmente (modo desenvolvedor) v2
 
 Se desejar executar o projeto via código-fonte:
 
